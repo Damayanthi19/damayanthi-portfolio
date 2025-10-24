@@ -45,7 +45,7 @@ function PortfolioApp() {
             Contact
           </button>
           <a
-            href="https://drive.google.com/file/d/1Ey0NJisVlDv_wqcWummPwKGlv2p6hoYt/view?usp=sharing"
+            href="https://drive.google.com/file/d/1yha-qCYy3epGzotf-8xSzvmo21nBY7Wn/view"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-indigo-500"
