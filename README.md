@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# Damayanthi Ravinuthala — Cloud AI & Full-Stack ML Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🌐 Personal portfolio website showcasing Cloud AI, Full-Stack, and Machine Learning projects.  
+Includes smooth animations, dark/light mode toggle, and responsive design.
 
-## Available Scripts
+## 🚀 Live Site
+[https://damayanthi19.github.io/damayanthi-portfolio/](https://damayanthi19.github.io/damayanthi-portfolio/)
 
-In the project directory, you can run:
+## 🧠 About Me
+I’m a Cloud AI Engineer passionate about designing and deploying scalable AI/ML solutions on Google Cloud Platform.  
+Specializing in NLP, Computer Vision, and Generative AI, I deploy models using Vertex AI, Cloud Run, and App Engine.  
+As a Full-Stack ML Application Developer, I integrate backend, frontend, and ML models into production-ready apps.  
+I create intelligent, data-driven solutions that solve real-world problems efficiently.
 
-### `npm start`
+## 🛠️ Skills
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Cloud (Core):** GCP (Vertex AI, Cloud Run, App Engine, BigQuery)  
+- **Programming:** Java, C++, Python, JavaScript, HTML, CSS, SQL  
+- **Web Frameworks:** Web Development, UI/UX Design, Figma, Spring Boot, Node.js, Flask, Thymeleaf  
+- **Data & ML:** Machine Learning, Predictive Modeling, Data Structures, Pandas, NumPy  
+- **Soft Skills:** Problem Solving, Team Collaboration, Analytical Thinking  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 💼 Projects
+1. **Document AI Extractor** – Extract structured data from PDFs using GCP Document AI and GPT-4o.  
+   [View on GitHub](https://github.com/Damayanthi19/document-ai-extractor)
 
-### `npm test`
+2. **Vertex AI Image Classifier** – Custom image classifier deployed on Vertex AI with Cloud Storage.  
+   [View on GitHub](https://github.com/Damayanthi19/community-content)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. **AI Chatbot on Cloud Run** – Transformer-based chatbot deployed using Cloud Run & API Gateway.  
+   [View on GitHub](https://github.com/Damayanthi19/ai-chatbot-cloudrun)
 
-### `npm run build`
+4. **EV Threat Detection** – Detects cyberattacks in EV charging using ML threat modeling and STRIDE framework.  
+   [View on GitHub](https://github.com/Damayanthi19/ev-threat-detection)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+5. **Ecommerce Store** – Full-stack eCommerce app built with Spring Boot, MySQL, and Thymeleaf.  
+   [View on GitHub](https://github.com/Damayanthi19/Ecommerce_Store)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+6. **Sales Forecast Project** – Predicts future sales using time-series ML regression for data-driven insights.  
+   [View on GitHub](https://github.com/Damayanthi19/sales-forecast-project)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📫 Contact
+- Email: damayantiravinuthala@gmail.com  
+- GitHub: [Damayanthi19](https://github.com/Damayanthi19)  
+- LinkedIn: [Damayanthi Ravinuthala](https://www.linkedin.com/in/damayanthi-ravinuthala-51052025b/)
